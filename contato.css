@@ -1,15 +1,6 @@
-body{
-
-}
-
 header{
     background: #fdd9b6;
     padding: 20px 0;
-}
-
-.titulo-principal{
-    padding-left: 20px;
-    position: absolute;
 }
 
 .caixa{
@@ -18,7 +9,7 @@ header{
     margin: 0 auto;
 }
 
-img{
+h1 img{
     height: 30%;
     width: 30%;
 }
@@ -46,56 +37,6 @@ nav a{
 nav a:hover{
     color: #bd7832;
     text-decoration: underline;
-}
-
-#banner {
-    width: 100%;
-
-}
-
-.principal{
-    background: #fdd9b6;
-    padding: 30px;
-}
-
-.titulo-centralizado{
-    text-align: center
-}
-
-p {
-    text-align: center;
-}
-
-#missao {
-    font-size: 20px;
-}
-
-em strong{
-    color: #FF0000;
-}
-
-.itens{
-    font-style: italic;
-}
-
-.beneficios{
-    background: #FFFFFF;
-    padding: 20px;
-}
-
-h2{
-    text-align: center;
-}
-
-ul{
-    display:inline-block;
-    vertical-align: top;
-    width: 20%S;
-    margin-right: 15%;
-}
-
-.imgbeneficios{
-    width: 50%;
 }
 
 footer{
